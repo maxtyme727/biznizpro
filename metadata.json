@@ -1,0 +1,7 @@
+{
+  "name": "The Biz-Niz Pro: Visual Business Quality Analyst",
+  "description": "An AI-powered tool that uses Google Maps and Search to identify businesses with poor reviews and provides visual brand reports and video strategy pitches.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
